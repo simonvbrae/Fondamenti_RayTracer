@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\texture.h(59,8): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\texture.h(60,8): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\material.h(10,17): warning C4099: 'material': il nome del tipo che in precedenza utilizzava 'class' ora utilizza 'struct'
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\material.h(10): message : vedere la dichiarazione di 'material'
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\mesh.h(70,45): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\mesh.h(71,43): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\mesh.h(72,46): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\mesh.h(73,28): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\scene.h(92,66): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\simon\Downloads\Texture Mesh\Texture Mesh\scene.h(118,66): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Texture Mesh.vcxproj -> C:\Users\simon\Downloads\Texture Mesh\x64\Debug\Texture Mesh.exe

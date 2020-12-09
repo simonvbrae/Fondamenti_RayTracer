@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\texture.h(59,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\texture.h(60,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\material.h(10,17): warning C4099: 'material': type name first seen using 'class' now seen using 'struct'
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\material.h(10): message : see declaration of 'material'
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\mesh.h(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\mesh.h(94,21): warning C4018: '<': signed/unsigned mismatch
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\mesh.h(101,21): warning C4018: '<': signed/unsigned mismatch
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\mesh.h(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Texture Mesh\mesh.h(116,21): warning C4018: '<': signed/unsigned mismatch
+  Texture Mesh.vcxproj -> D:\Dropbox\Didattica\Fondamenti di Grafica Tridimensionale\Corso 2020-21\Source\Lezione 10\VS2019\Texture Mesh\Debug\Texture Mesh.exe
