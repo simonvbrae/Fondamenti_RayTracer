@@ -1,1 +1,1 @@
-# Fondamenti_RayTracer
+Solutions contains compiled examples.
